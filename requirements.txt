@@ -7,3 +7,4 @@ Pillow==10.0.0
 plotly==5.22.0
 streamlit==1.37.1
 streamlit_folium==0.13.0
+inflection
