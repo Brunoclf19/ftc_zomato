@@ -131,7 +131,7 @@ O objetivo desse projeto é criar um conjunto de dashboards para responder essas
 
 Um **painel online**, hospedado na nuvem e acessível em qualquer dispositivo conectado à internet.
 
-**Acesse o painel aqui:** [Inserir Link Aqui](#)
+**Acesse o painel aqui:**  https://ftczomato-fome-zero-projeto.streamlit.app/
 
 ---
 
