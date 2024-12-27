@@ -1,7 +1,7 @@
 # Zomato - Fome Zero
 
 <div align="center">
-  <img src="tela-fundo.jpg" alt="Tela Fundo" />
+  <img src="logo-inicio.jpg" alt="Tela Fundo" />
 </div>
 
 ## 1. Problema de Negócio
